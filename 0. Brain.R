@@ -10,9 +10,6 @@ cat("\014") # clearing console
 # finds the freq of the remaining ones, sorts them and generates an excel file 
 # with that information. It also generates a bar plot per PDF containing the  
 # most common words on it
-source("1. Full words freq.R")
-fullWordsFreqHist()
-
 
 source("1. Full words freq 2.R")
 fullWordsFreqHist()
@@ -54,4 +51,3 @@ source("6. Keywords heatmap prep.R")
 keywordsStats()
 
 getwd()
-setwd("G:/My Drive/_Spring2024DissertationII/RTextMining v2 April 2024")

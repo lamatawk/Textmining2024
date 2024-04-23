@@ -7,9 +7,8 @@ cat("\014") # Clearing console
 
 # Set the working directory
 # ==============================================================================
-setwd("G:/My Drive/_Spring2024DissertationII/RTextMining v2 April 2024")
-
-getwd()  # Confirm the current working directory
+#setwd("C:/Users/ltawk/Documents/Text mining pipeline/Textmining2024")
+#getwd()  # Confirm the current working directory
 # ==============================================================================
 
 # Load the necessary packages (install if necessary)
@@ -125,4 +124,5 @@ fullWordsFreqHist <- function() {
 # ==============================================================================
 
 # Optionally, call the function to execute
-fullWordsFreqHist()
+#fullWordsFreqHist()
+

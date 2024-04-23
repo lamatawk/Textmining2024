@@ -106,4 +106,5 @@ zipfLaw <- function() {
 }
 
 # Optionally, call the function to execute
-zipfLaw()
+#zipfLaw()
+
